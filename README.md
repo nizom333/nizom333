@@ -13,6 +13,7 @@ Core competencies
 
 Also used in the work
 
+![Laravel](https://img.shields.io/badge/laravel-%23DD0031.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bitrix24](https://img.shields.io/badge/bitrix24-%2300ADD8.svg?style=for-the-badge&logo=bitrix24&logoColor=white)
 ![1C-Bitrix](https://img.shields.io/badge/bitrix-%23DD0031.svg?style=for-the-badge&logo=bitrix&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
